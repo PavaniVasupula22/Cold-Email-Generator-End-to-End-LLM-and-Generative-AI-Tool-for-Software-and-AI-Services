@@ -19,3 +19,7 @@ To get started we first need to get an API_KEY from here: https://console.groq.c
 Run the streamlit app:
 
 streamlit run app/main.py
+
+#Architecture Diagram
+![Architecture Diagram cold email](https://github.com/user-attachments/assets/d60d764f-b69a-4f16-9ed6-de3d086edeac)
+
